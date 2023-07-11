@@ -95,3 +95,21 @@ padding: 40px;
   font-weight: 400;
   margin-bottom: 15px;
 }
+
+.contactInfo.softSkills .text
+{
+  color: #fff;
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 15px;
+}
+
+a
+{
+color: black;
+}
+
+a:hover 
+{
+   color: rgb(131, 131, 131);
+}
