@@ -87,3 +87,11 @@ padding: 40px;
   color: #fff;
   font-weight: 300px;
 }
+
+.contactInfo.education .text
+{
+  color: #fff;
+  font-size: 1em;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
