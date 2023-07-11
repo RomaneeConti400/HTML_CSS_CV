@@ -160,3 +160,22 @@ a:hover
   margin-bottom: 10px;
   font-size: 1.4em;
 }
+
+.about .box
+{
+  display: flex; 
+  flex-direction: row; 
+  margin: 20px 0;
+}
+
+.about .box .project
+{
+  min-width: 150px;
+}
+
+.about .box .project h4
+{
+  text-transform: uppercase;
+  color: rgb(242, 211, 11);
+  font-weight: 600;
+}
