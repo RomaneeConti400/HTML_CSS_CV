@@ -240,12 +240,8 @@ a:hover
   flex: 1;
 }
 
-.skills-list {
-  padding: 10px;
-}
 
 .skills-list li {
-  margin-bottom: 10px;
   font-weight: bold;
 }
 
@@ -254,7 +250,7 @@ a:hover
 }
 
 .footer { 
-  margin-top: 110px;
+  margin-top: 40px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
